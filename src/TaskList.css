@@ -1,0 +1,99 @@
+
+.task-list-container {
+    border: 2px solid #000;
+    padding: 10px;
+    margin-top: 20px;
+
+  }
+  
+  .task-list-box {
+    border: 1px solid #38c4ce;
+    padding: 10px;
+  }
+  
+  .task-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .task-text {
+    flex: 1;
+    font-size: 30px;
+    text-shadow: 0cqb;
+  }
+  
+  button {
+    margin-left: 10px;
+   
+    transition: background-color 0.3s ease-in-out; /* Smooth transition effect */
+  }
+  button:hover {
+    background-color: #f5dd7f; /* Change to your desired hover color */
+  }
+  button {
+    margin-left: 10px;
+    border: 1px solid #ccc; /* Change to your desired color and thickness */
+  }
+  
+  
+
+  
+.task-list-container {
+    border: 2px solid #638b7c;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  .task-list-box {
+    border: 1px solid #000;
+    padding: 10px;
+  }
+  
+  .task-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .task-text {
+    flex: 1;
+    font-size: 30px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+
+  .task-body{
+   background-color:green;
+  }
+  .task-list-container {
+    border: 2px solid #000;
+    padding: 10px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column; /* Align items vertically */
+  }
+  
+  .task-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Center the button */
+  }
+  
+  .task-text {
+    flex: 1;
+    font-size: 30px;
+  }
+  
+  button {
+    margin-left: 10px;
+    border: 1px solid #ccc;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #f5dd7f;
+  }
+  
+  
+  
