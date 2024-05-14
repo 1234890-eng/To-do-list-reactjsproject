@@ -1,0 +1,10 @@
+.task-input {
+    font-size: 20px; /* Adjust the font size as needed */
+    padding: 20px;
+  }
+
+  .task-text {
+    flex: 1;
+    font-size: 30px;
+  }
+  
